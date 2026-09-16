@@ -2,7 +2,7 @@
 
 <h1>Hamras</h1>
 
-<p><strong>فایل‌ها اینجا، فاصله‌ها هیچ.</strong><br>Local files. Direct connections.</p>
+<p><strong>Live: https://masha-run.ir</strong><br>Local files. Direct connections.</p>
 
 <p>انتقال فایل، پیام مستقیم و فضای اشتراکی روی میزبان در شبکهٔ محلی<br>Peer-to-peer file transfers, direct messages, and host storage for your local network</p>
 
