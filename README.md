@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>هم‌رس | Hamras</h1>
+<h1>Hamras</h1>
 
 <p><strong>فایل‌ها اینجا، فاصله‌ها هیچ.</strong><br>Local files. Direct connections.</p>
 
